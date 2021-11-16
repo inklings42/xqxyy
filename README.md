@@ -6,6 +6,8 @@
     a. 如果你需要使用查词插件进行屏幕取词，请[移步 Wiki 页面](https://github.com/inklings42/xqxyy/wiki)。
     
     b. 如果你喜欢看有插图、渲染好的版本，可以在本页面预览，也可以下载 PDF。
+    
+    c. 我试着用 GitBook 编辑了[「看《硅谷》学英语」栏目](https://inklings.gitbook.io/xiao-qing-xue-ying-yu/)，效果不错～满意！
 
 2. 如果你有意见或者建议，可以给我发消息：
 
