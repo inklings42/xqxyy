@@ -20,7 +20,7 @@
    * crimx、Startrekzky、Venxine 为本栏目提供技术顾问  
    * Roy L. 为本栏目提供英语和商业知识方面的顾问  
    * 柒小斤、推推、Startrekzky、ligoudan 提供内容修改意见和建议  
-   * Venxine 在微信公众号为本栏目打赏  
+   * Venxine 在[微信公众号](https://mp.weixin.qq.com/s/gvspDoxafBdaDMKrV_TsVA)为本栏目打赏  
 
 5. 本栏目不定期更新，夸得越多，更新越勤～
 6. 祝你幸福！
@@ -47,7 +47,7 @@
 
 * [ ] 通过任意途径，鼓励小青加油加油。🌟🌟  
    * [ ] 在 GitHub 给本项目一颗小星星。🌟🌟🌟  
-   * [ ] 在小青的微信公众号打赏，请作者吃桔子。🌟🌟🌟  
+   * [ ] 在小青的[微信公众号](https://mp.weixin.qq.com/s/gvspDoxafBdaDMKrV_TsVA)打赏，请作者吃桔子。🌟🌟🌟  
 
 * [ ] 转发[「小青学英语」](https://inklings.gitbook.io/xiao-qing-xue-ying-yu/)给更多需要的人。🌟  
    * [ ] 转发时，附上赞美小青和祝福对方的话。🌟🌟  
