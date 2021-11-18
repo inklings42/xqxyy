@@ -22,8 +22,9 @@
    * 柒小斤、推推、Startrekzky、ligoudan 提供内容修改意见和建议  
    * Venxine 在[微信公众号](https://mp.weixin.qq.com/s/gvspDoxafBdaDMKrV_TsVA)为本栏目打赏  
 
-5. 本栏目不定期更新，夸得越多，更新越勤～
-6. 祝你幸福！
+5. 本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)进行许可。
+6. 本栏目不定期更新，夸得越多，更新越勤～
+7. 祝你幸福！
 
 
 ***
