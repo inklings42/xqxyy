@@ -19,7 +19,7 @@
 
    * [crimx](https://github.com/crimx)、[Startrekzky](https://github.com/Startrekzky)、[Venxine](https://github.com/Venxine) 为本栏目提供技术顾问  
    * Roy L. 为本栏目提供英语和商业知识方面的顾问  
-   * 柒小斤、推推、Startrekzky、ligoudan 提供内容修改意见和建议  
+   * 柒小斤、推推、Startrekzky、ligoudan、11 提供内容修改意见和建议  
    * Venxine 在[微信公众号](https://mp.weixin.qq.com/s/gvspDoxafBdaDMKrV_TsVA)为本栏目打赏  
 
 5. 本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)进行许可。
