@@ -49,7 +49,7 @@
    * [ ] 在 GitHub 给本项目一颗小星星。🌟🌟🌟  
    * [ ] 在小青的[微信公众号](https://mp.weixin.qq.com/s/gvspDoxafBdaDMKrV_TsVA)打赏，请作者吃桔子。🌟🌟🌟  
 
-* [ ] 转发[「小青学英语」](https://inklings.gitbook.io/xiao-qing-xue-ying-yu/)给更多需要的人。🌟  
+* [ ] 转发「[小青学英语](https://inklings.gitbook.io/xiao-qing-xue-ying-yu/)」给更多需要的人。🌟  
    * [ ] 转发时，附上赞美小青和祝福对方的话。🌟🌟  
 
 
