@@ -2,15 +2,16 @@
 
 1. 你好哇，我是小青。欢迎你和我一起学英语～
 
-    * 点开文件夹即可下载 PDF。简易在线阅读，请[移步 Wiki 页面](https://github.com/inklings42/xqxyy/wiki)。    
-    * 本栏目在[Gitbook｜小青学英语](https://inklings.gitbook.io/xiao-qing-xue-ying-yu/)同步更新，是一个干净漂亮的小网页，可以收藏到浏览器书签栏。      
+    * 更新在[Wiki 页面](https://github.com/inklings42/xqxyy/wiki)和我的博客[Blog | Inklings](https://inklings.bearblog.dev/blog/)。
+    * ~~点开文件夹即可下载 PDF。~~ 我的 Bear 会员到期，我常用的 Logseq 导出的 PDF 排版不好看，也不想折腾了，暂停上传 PDF 版本。
+    * ~~本栏目在[Gitbook｜小青学英语](https://inklings.gitbook.io/xiao-qing-xue-ying-yu/)同步更新，是一个干净漂亮的小网页，可以收藏到浏览器书签栏。~~ Gitbook 排版太费劲，弃用。 
     * 请勿商用，转载请标明作者、出处，并附上网址链接。谢谢！
 
 2. 如果你有意见或者建议，可以给我发消息：
 
     * 我在[长毛象](https://mastodon.social/web/@inklingsdaily)  
     * 也可以给我写邮件 inklingsdaily@gmail.com  
-    * 可以在本站内提 issue  
+    * 可以在本站内提 issues 
     * 我还有一个微信公众号：“山海青”  
        * 主要分享我的游记和[生活趣事小妙招](https://mp.weixin.qq.com/s/igNq0bP5F13kcHS93W0zVw)，有时也会发布“小青学英语”栏目的[通知](https://mp.weixin.qq.com/s/gvspDoxafBdaDMKrV_TsVA)。
 
