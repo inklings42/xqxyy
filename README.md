@@ -31,21 +31,9 @@
 ***
 
 
-## 帮帮小青
-
 ### 如果你喜欢「小青学英语」，想要让它变得更好，谢谢你！
 
-你可以选择以下方式：
-
-* [ ] 在已有内容中找到一个疏漏之处，并告诉小青。🌟   
-   * [ ] 针对错误提出你的修改意见、解释和依据。🌟🌟   
-
-* [ ] 补充小青笔记中未提到的有益知识。🌟  
-   * [ ] 告诉小青，你日常工作或生活中需要用到英语的场景，以及想表达的意思。🌟🌟    
-
-* [ ] 在「[小青不懂，来帮帮她](https://github.com/inklings42/xqxyy/blob/main/%E5%B0%8F%E9%9D%92%E4%B8%8D%E6%87%82%EF%BC%8C%E6%9D%A5%E5%B8%AE%E5%B8%AE%E5%A5%B9.md)」文档中领取一个疑问，帮助小青解答。🌟🌟  
-   * 比如用小学生能懂的语言，帮小青解释《硅谷》中出现的技术术语。
-   * 再比如，帮小青解决使用 GitHub 和 GitBook 等工具的过程中遇到的技术难题。
+* [ ] 在已有内容中找到疏漏之处，并通过 issues 告诉小青。🌟    
 
 * [ ] 通过任意途径，鼓励小青加油加油。🌟🌟  
    * [ ] 在 GitHub 给本项目一颗小星星。🌟🌟🌟  
@@ -53,7 +41,7 @@
       * <img width="286" alt="Screenshot 2024-10-12 at 12 57 00" src="https://github.com/user-attachments/assets/aff856ae-f25f-4764-a7d8-be06e6a4cd6e">
       * <img width="286" alt="Screenshot 2024-10-12 at 12 58 16" src="https://github.com/user-attachments/assets/57e0e319-be32-4e84-a74e-d21fc9ae42d3">
 
-* [ ] 转发「[小青学英语](https://inklings.gitbook.io/xiao-qing-xue-ying-yu/)」给更多需要的人。🌟  
+* [ ] 转发[Blog | Inklings](https://inklings.bearblog.dev/blog/)给更多需要的人。🌟  
    * [ ] 转发时，附上赞美小青和祝福对方的话。🌟🌟  
 
 
