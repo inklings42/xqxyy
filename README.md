@@ -37,7 +37,7 @@
 
 * [ ] 通过任意途径，鼓励小青加油加油。🌟🌟  
    * [ ] 在 GitHub 给本项目一颗小星星。🌟🌟🌟  
-   * [ ] 请小青吃橘子，捐助小青订阅 Bear Pro，恢复漂亮的 PDF 更新。
+   * [ ] 通过支付宝或微信请小青吃橘子，捐助小青订阅 Bear Pro，恢复漂亮的 PDF 更新。
       * <img width="286" alt="Screenshot 2024-10-12 at 12 57 00" src="https://github.com/user-attachments/assets/aff856ae-f25f-4764-a7d8-be06e6a4cd6e">
       * <img width="286" alt="Screenshot 2024-10-12 at 12 58 16" src="https://github.com/user-attachments/assets/57e0e319-be32-4e84-a74e-d21fc9ae42d3">
 
